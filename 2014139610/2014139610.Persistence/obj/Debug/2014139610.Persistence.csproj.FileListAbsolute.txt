@@ -1,0 +1,30 @@
+c:\users\carlos roberto\documents\visual studio 2017\Projects\2014139610\2014139610.Persistence\bin\Debug\2014139610.Persistence.dll
+c:\users\carlos roberto\documents\visual studio 2017\Projects\2014139610\2014139610.Persistence\bin\Debug\2014139610.Persistence.pdb
+c:\users\carlos roberto\documents\visual studio 2017\Projects\2014139610\2014139610.Persistence\obj\Debug\2014139610.Persistence.csprojResolveAssemblyReference.cache
+c:\users\carlos roberto\documents\visual studio 2017\Projects\2014139610\2014139610.Persistence\obj\Debug\2014139610.Persistence.dll
+c:\users\carlos roberto\documents\visual studio 2017\Projects\2014139610\2014139610.Persistence\obj\Debug\2014139610.Persistence.pdb
+c:\users\carlos roberto\documents\visual studio 2017\Projects\2014139610\2014139610.Persistence\bin\Debug\2014139610.Persistence.dll.config
+c:\users\carlos roberto\documents\visual studio 2017\Projects\2014139610\2014139610.Persistence\bin\Debug\2014139610.Entities.dll
+c:\users\carlos roberto\documents\visual studio 2017\Projects\2014139610\2014139610.Persistence\bin\Debug\EntityFramework.dll
+c:\users\carlos roberto\documents\visual studio 2017\Projects\2014139610\2014139610.Persistence\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\carlos roberto\documents\visual studio 2017\Projects\2014139610\2014139610.Persistence\bin\Debug\2014139610.Entities.pdb
+c:\users\carlos roberto\documents\visual studio 2017\Projects\2014139610\2014139610.Persistence\bin\Debug\EntityFramework.xml
+c:\users\carlos roberto\documents\visual studio 2017\Projects\2014139610\2014139610.Persistence\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\carlos roberto\documents\visual studio 2017\Projects\2014139610\2014139610.Persistence\obj\Debug\_2014139610.Persistence.Migrations.prueba.resources
+c:\users\carlos roberto\documents\visual studio 2017\Projects\2014139610\2014139610.Persistence\obj\Debug\2014139610.Persistence.csproj.GenerateResource.Cache
+C:\Users\Carlos Roberto\Documents\Visual Studio 2017\Projects\2014139610\2014139610.Persistence\obj\Debug\_2014139610.Persistence.Migrations.prueba2.resources
+C:\Users\Carlos Roberto\Desktop\2014139610\2014139610.Persistence\bin\Debug\2014139610.Persistence.dll.config
+C:\Users\Carlos Roberto\Desktop\2014139610\2014139610.Persistence\bin\Debug\2014139610.Persistence.dll
+C:\Users\Carlos Roberto\Desktop\2014139610\2014139610.Persistence\bin\Debug\2014139610.Persistence.pdb
+C:\Users\Carlos Roberto\Desktop\2014139610\2014139610.Persistence\bin\Debug\2014139610.Entities.dll
+C:\Users\Carlos Roberto\Desktop\2014139610\2014139610.Persistence\bin\Debug\EntityFramework.dll
+C:\Users\Carlos Roberto\Desktop\2014139610\2014139610.Persistence\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Carlos Roberto\Desktop\2014139610\2014139610.Persistence\bin\Debug\2014139610.Entities.pdb
+C:\Users\Carlos Roberto\Desktop\2014139610\2014139610.Persistence\bin\Debug\EntityFramework.xml
+C:\Users\Carlos Roberto\Desktop\2014139610\2014139610.Persistence\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Carlos Roberto\Desktop\2014139610\2014139610.Persistence\obj\Debug\2014139610.Persistence.csprojResolveAssemblyReference.cache
+C:\Users\Carlos Roberto\Desktop\2014139610\2014139610.Persistence\obj\Debug\2014139610.Persistence.dll
+C:\Users\Carlos Roberto\Desktop\2014139610\2014139610.Persistence\obj\Debug\2014139610.Persistence.pdb
+C:\Users\Carlos Roberto\Desktop\2014139610\2014139610.Persistence\obj\Debug\_2014139610.Persistence.Migrations.prueba.resources
+C:\Users\Carlos Roberto\Desktop\2014139610\2014139610.Persistence\obj\Debug\2014139610.Persistence.csproj.GenerateResource.Cache
+C:\Users\Carlos Roberto\Desktop\2014139610\2014139610.Persistence\obj\Debug\_2014139610.Persistence.Migrations.prueba2.resources
